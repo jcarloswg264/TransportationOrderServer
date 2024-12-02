@@ -1,4 +1,4 @@
-ame: build and test CI workflow
+name: build and test CI workflow
 
 on: [push]
 
